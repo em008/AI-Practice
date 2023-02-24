@@ -1,4 +1,6 @@
-# Multi-Class Classification with Perceptron
+""" 
+Multi-Class Classification with Perceptron
+"""
 
 import matplotlib.pyplot as plt
 import numpy as np
