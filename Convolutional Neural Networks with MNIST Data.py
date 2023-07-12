@@ -1,5 +1,5 @@
 """
-Convolutional neural networks - MNIST
+Convolutional neural networks with MNIST dataset
 """
 
 import tensorflow as tf
